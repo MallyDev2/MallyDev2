@@ -38,6 +38,5 @@ I make all the things that pop in my head and im cool fr?
 
 ## Contact
 
-- Website: [mallydev.xyz](https://mallydev.xyz)
 - Email: [malawarettv@gmail.com](mailto:malawarettv@gmail.com)
 - Discord: [mallydev](https://discord.com/users/810271899170373732)
