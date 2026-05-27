@@ -1,0 +1,25 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MallyDev profile banner">
+  <rect width="1200" height="360" rx="28" fill="#07111d"/>
+  <path d="M0 259C175 197 306 284 462 221C605 163 705 44 889 79C1011 102 1101 184 1200 134V360H0V259Z" fill="#0b2540"/>
+  <path d="M0 292C157 237 287 299 439 249C583 202 697 115 868 142C1013 165 1103 235 1200 204V360H0V292Z" fill="#0f3558"/>
+  <rect x="48" y="48" width="1104" height="264" rx="24" fill="#081827" fill-opacity=".78" stroke="#1f9bea" stroke-width="2"/>
+  <g filter="url(#glow)">
+    <path d="M908 76L930 154L1009 155L945 202L969 278L907 232L844 278L868 202L804 155L883 154L908 76Z" fill="#25a8ff" fill-opacity=".92"/>
+  </g>
+  <circle cx="946" cy="198" r="86" stroke="#25a8ff" stroke-opacity=".25" stroke-width="16"/>
+  <circle cx="946" cy="198" r="48" stroke="#25a8ff" stroke-opacity=".32" stroke-width="10"/>
+  <path d="M82 232H510" stroke="#1f9bea" stroke-width="2" stroke-opacity=".3"/>
+  <text x="82" y="112" fill="#9ccdf8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">MALLYDEV</text>
+  <rect x="82" y="128" width="128" height="7" rx="3.5" fill="#1f9bea"/>
+  <text x="82" y="190" fill="#f3f8ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Builder of live systems</text>
+  <text x="82" y="258" fill="#bdd3e8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28">game tunnels · real-time apps · secure dashboards</text>
+  <defs>
+    <filter id="glow" x="764" y="36" width="285" height="282" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>
