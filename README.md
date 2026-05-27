@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/angel-wallpaper.jpg" alt="Angel wallpaper banner" width="100%">
+</p>
+
 # MallyDev
 
 I build tools that make self-hosting feel clean: game tunnels, real-time web apps, server dashboards, and desktop developer tools.
