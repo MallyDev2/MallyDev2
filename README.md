@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/angel-wallpaper.jpg" alt="Angel wallpaper banner" width="100%">
+﻿<p align="center">
+  <img src="assets/profile-wallpaper.png" alt="Angel wallpaper banner" width="100%">
 </p>
 
 # MallyDev
@@ -32,7 +32,7 @@ I build tools that make self-hosting feel clean: game tunnels, real-time web app
   <img alt="CSS" src="https://img.shields.io/badge/CSS-layout%20%26%20polish-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff">
 </p>
 
-`Node.js` · `React` · `Electron` · `PostgreSQL` · `Docker` · `Linux` · `PowerShell`
+`Node.js` Â· `React` Â· `Electron` Â· `PostgreSQL` Â· `Docker` Â· `Linux` Â· `PowerShell`
 
 ## Contact
 
