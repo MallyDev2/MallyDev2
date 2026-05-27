@@ -4,7 +4,7 @@
 
 # MallyDev
 
-I build tools that make self-hosting feel clean: game tunnels, real-time web apps, server dashboards, and desktop developer tools.
+I make all the things that pop in my head and im cool fr?
 
 ## Featured Work
 
