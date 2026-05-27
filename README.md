@@ -34,7 +34,7 @@ I make all the things that pop in my head and im cool fr?
   <img alt="CSS" src="https://img.shields.io/badge/CSS-layout%20%26%20polish-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff">
 </p>
 
-`Node.js` Â· `React` Â· `Electron` Â· `PostgreSQL` Â· `Docker` Â· `Linux` Â· `PowerShell`
+`Node.js` · `React` · `Electron` · `PostgreSQL` · `Docker` · `Linux` · `PowerShell`
 
 ## Contact
 
