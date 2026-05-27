@@ -4,9 +4,11 @@ I build web apps, game tools, server dashboards, and small infrastructure system
 
 ## Current Projects
 
-- **ArtemisGo** - game tunnels and proxy tooling for self-hosted servers.
-- **Artemis Chess** - live chess, spectating, replays, and game history.
-- **Orion IDE** - a desktop code editor with project memory and AI-assisted workflows.
+| Project | What it does |
+|---------|--------------|
+| [ArtemisGo](https://github.com/MallyDev2/ArtemisGo) | Game tunnels and proxy tooling for self-hosted servers. |
+| Artemis Chess | Live chess, spectating, replays, and game history. |
+| [Orion IDE](https://github.com/MallyDev2/orion-ide) | Desktop code editor with project memory and AI-assisted workflows. |
 
 ## Focus
 
