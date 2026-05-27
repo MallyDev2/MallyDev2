@@ -21,3 +21,4 @@ I build web apps, game tools, server dashboards, and small infrastructure system
 
 - Website: [mallydev.xyz](https://mallydev.xyz)
 - GitHub: [MallyDev2](https://github.com/MallyDev2)
+- Email: [malawarettv@gmail.com](mailto:malawarettv@gmail.com)
