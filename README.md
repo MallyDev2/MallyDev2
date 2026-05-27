@@ -13,6 +13,8 @@ I build tools that make self-hosting feel clean: game tunnels, real-time web app
 | [ArtemisGo](https://github.com/MallyDev2/ArtemisGo) | Game tunnels and proxy tooling for self-hosted servers. |
 | [Artemis Chess](https://chess.mallydev.xyz) | Live chess with profiles, spectating, replays, and game history. |
 | [Orion IDE](https://github.com/MallyDev2/orion-ide) | Desktop code editor with project memory and assisted workflows. |
+| [Orion Discord bot](https://orion-ai.xyz) | Discord bot that integrates ai and discord together for everyday questions and coding assistance. |
+| [My Portfolio](https://mallydev.xyz) | Website to show a few other websites and links to projects I've made. |
 
 ## Focus
 
