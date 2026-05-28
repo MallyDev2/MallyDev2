@@ -4,7 +4,7 @@
 
 # MallyDev
 
-I make all the things that pop in my head and im cool fr?
+I build polished tools, game systems, Discord projects, and websites around the ideas I cannot leave alone.
 
 ## Featured Work
 
@@ -22,6 +22,7 @@ I make all the things that pop in my head and im cool fr?
 - Interfaces that feel polished, not thrown together.
 - Real-time systems that keep state correctly across disconnects.
 - Developer workflows that are fast to install and easy to trust.
+- Projects with a clear identity instead of plain default templates.
 
 ## Stack
 
