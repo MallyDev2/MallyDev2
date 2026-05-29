@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/profile-wallpaper.png" alt="Angel wallpaper banner" width="100%">
+  <img src="assets/angel-wallpaper.jpg" alt="Angel wallpaper banner" width="100%">
 </p>
 
 # MallyDev
