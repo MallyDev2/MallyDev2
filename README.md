@@ -6,32 +6,13 @@
 
 Discord bot and website developer with cool developer socks
 
-## Featured Work
+## Featured sites
 
-| Project | What it is |
 |---------|------------|
-| [Orion IDE](https://github.com/MallyDev2/orion-ide) | Desktop code editor with project memory and assisted workflows. |
 | [Orion Discord bot](https://orion-ai.xyz) | Discord bot that integrates ai and discord together for everyday questions and coding assistance. |
 | [My Portfolio](https://mallydev.xyz) | Website to show a few other websites and links to projects I've made. |
 
-## Focus
-
-- Secure tools that do not leak private infrastructure.
-- Interfaces that feel polished, not thrown together.
-- Real-time systems that keep state correctly across disconnects.
-- Developer workflows that are fast to install and easy to trust.
-- Projects with a clear identity instead of plain default templates.
-
-## Current Builds
-
-| Project | Direction |
-|---------|-----------|
-| DiscordLyrics | Discord music presence with synced lyric status. |
-| ArtemisGo | Game tunneling that hides home network details. |
-| Orion IDE | A Windows-first desktop editor with project memory. |
-| Artemis Chess | Real-time games, spectating, replay, and profiles. |
-
-## Stack
+## Languages and Stack
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-runtime%20logic%20%26%20bots-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111">
