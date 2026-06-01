@@ -8,8 +8,8 @@ Discord bot and website developer with cool developer socks
 
 ## Featured sites
 
-- Orion Discord bot: (https://orion-ai.xyz)
-- My Portfolio: (https://mallydev.xyz)
+- Orion Discord bot: [Orion](https://orion-ai.xyz)
+- My Portfolio: [Portfolio](https://mallydev.xyz)
 
 ## Languages and Stack
 
