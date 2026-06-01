@@ -22,6 +22,15 @@ I build polished tools, game systems, Discord projects, and websites around the 
 - Developer workflows that are fast to install and easy to trust.
 - Projects with a clear identity instead of plain default templates.
 
+## Current Builds
+
+| Project | Direction |
+|---------|-----------|
+| DiscordLyrics | Discord music presence with synced lyric status. |
+| ArtemisGo | Game tunneling that hides home network details. |
+| Orion IDE | A Windows-first desktop editor with project memory. |
+| Artemis Chess | Real-time games, spectating, replay, and profiles. |
+
 ## Stack
 
 <p>
