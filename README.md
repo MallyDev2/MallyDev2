@@ -4,7 +4,7 @@
 
 # MallyDev
 
-I build polished tools, game systems, Discord projects, and websites around the ideas I cannot leave alone.
+Discord bot and website developer with cool developer socks
 
 ## Featured Work
 
